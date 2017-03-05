@@ -1,3 +1,6 @@
 ulimit -a #user limits
 ulimit -a -H #user hard limits
 
+stat <file>
+
+gzip -l <file.gz>
